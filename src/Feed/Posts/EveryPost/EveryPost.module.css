@@ -1,0 +1,23 @@
+.Post {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+
+.Post img{
+    max-height: 50px;
+    border-radius: 50px;
+}
+
+.Post p{
+    padding-left: 20px;
+    font-size: 14px;
+    color: rgb(2, 2, 77);
+}
+
+
+.Post_likes_counter{
+    font-size: 8px;
+    color: gray;
+    padding: 0px;
+}

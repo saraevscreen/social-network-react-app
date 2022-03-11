@@ -1,0 +1,8 @@
+.Feed {
+    display: flex;
+    flex-direction: column;
+    background-color: #cadbff;
+    color: midnightblue;
+
+    padding: 10px;
+}

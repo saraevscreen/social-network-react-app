@@ -1,0 +1,23 @@
+.Profile {
+    display: flex;
+    flex-direction: row;
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+    background-color: #cadbff;
+
+    padding: 10px;
+    padding-bottom: 100px;
+}
+
+.Profile_avatar {
+    max-width: 30%;
+}
+
+.Profile_avatar img {
+    height: 200px;
+    border-radius: 200px;
+}
+
+.Profile_description {
+    padding-left: 10px;
+}
