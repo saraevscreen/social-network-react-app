@@ -1,0 +1,18 @@
+.MessagesList{
+    display: flex;
+    flex-direction: row;
+    min-width: 870px;
+    background-color: #cadbff;
+    padding: 10px;
+}
+
+
+.MessagesList_Users {
+    width: 30%;
+}
+
+
+.MessagesList_Messages {
+    width: 70%;
+
+}

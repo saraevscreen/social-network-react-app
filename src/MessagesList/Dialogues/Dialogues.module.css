@@ -1,0 +1,11 @@
+.Dialogues{
+    display: flex;
+    flex-direction: column;
+}
+
+.Dialogues_message {
+    width: 70%;
+    border: 3px solid rgb(175, 201, 248);
+    border-radius: 10px 0px;
+    padding: 10px 20px;
+}

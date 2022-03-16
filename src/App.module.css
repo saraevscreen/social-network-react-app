@@ -1,0 +1,40 @@
+.App {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1270px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+.App_wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.App_navbar {
+  width: 30%;
+}
+
+/*
+.App-header {
+  grid-area: h;
+  min-height: 60px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  grid-area: n;
+  min-height: 70%;
+  color: #61dafb;
+}
+
+.App-content {
+    grid-area: c;
+    min-height: 70%;
+    color: #61dafb;
+}
+*/

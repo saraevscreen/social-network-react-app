@@ -1,0 +1,20 @@
+.Header {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+
+.Header_logo img {
+    height: 100px;
+    border-radius: 100px;
+}
+
+.Header_naming {
+    padding-left: 50px;
+    color: deepskyblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+}
